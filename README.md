@@ -1,1 +1,1 @@
-# PBOT-plus
+# [Proxity Studios](https://github.com/ProxityStudios)
